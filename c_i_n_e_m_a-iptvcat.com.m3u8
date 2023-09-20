@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 1 DE
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="DAZN",DAZN 1 DE
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dazn.1.de.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 2 DE
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="DAZN",DAZN 2 DE
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dazn.2.de.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.1.de.m3u8?checkedby:iptvcat.com
