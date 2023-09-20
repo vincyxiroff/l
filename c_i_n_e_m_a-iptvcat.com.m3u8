@@ -1,3 +1,395 @@
 #EXTM3U
 #EXTINF:0 tvg-country="IT" tvg-logo="http://picons14.ddns.net/images/sceglicanale.jpg" group-title="ITALY",----C I N E M A----
 http://picons14.ddns.net/images/scegliuncanale.mp4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="ITALY",111 TV (720p)
+https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",12 TV Parma (540p) [Not 24/7]
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Undefined",51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="ITALY",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/mEoDAf1.png" group-title="ITALY",Adnkronos (720p)
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;FR;GR;IT;NL;SK;TR" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious;FRANCE;ITALY",Angel TV Europe (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="ITALY",Antenna 2 TV (720p)
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Undefined",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/qWIZNEc.png" group-title="ITALY",Azzurra TV (576p)
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="ITALY",Calabria TV (256p)
+https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura,IT | Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/ZqxOFkN.png" group-title="ITALY",Canale Italia (720p)
+https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/ANGD7gv.png" group-title="ITALY",CarinaTV (720p)
+https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/X8BI1Md.png" group-title="ITALY",Casa Italia 53 (720p)
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="ITALY",Cusano Italia TV (720p)
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",D Television (Antenna 10) (480p)
+https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/512px-Logo_Deejay.svg.png" group-title="ITALY",Deejay TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/PmFmapr.png" group-title="ITALY",Donna Shopping (576p)
+https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/lSI5QgV.png" group-title="ITALY",Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Undefined",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/54CO2u9.png" group-title="ITALY",FM ITALIA (1080p)
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="ITALY",GO-TV Canale 163 (720p)
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/2Y5qiao.png" group-title="ITALY",Giornale Radio TV (720p)
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Giovanni Paolo TV (1080p)
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="Undefined",Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Insurance Connect (720p)
+https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/512px-Inter_TV_-_Logo_2017.svg.png" group-title="ITALY",Inter TV (720p)
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Italia 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/italia.1.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Undefined",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Undefined",Italia 2 TV
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/05YWVCq.png" group-title="ITALY",L'altro Corriere TV (720P)
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="ITALY",La 7 d (720p)
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",La C News 24 (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/TF4LKp0.png" group-title="ITALY",La C TV (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",La5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la.5.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",La7
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la7.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/TNLD9yD.png" group-title="ITALY",Lazio TV (576p)
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/d8ziiEJ.png" group-title="ITALY",Le Cronache TV (720p)
+http://77.68.40.210:8888/hls/cronache.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/frVhm9q.png" group-title="ITALY",Lombardia TV (720p)
+https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Jv4WiO6.png" group-title="ITALY",Love in Venice (480p)
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Jv4WiO6.png" group-title="ITALY",Love in Venice (480p)
+http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",MS MOTORTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ms.motortv.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="ITALY",MadeinBO TV (1080p)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Mediaset Extra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mediaset.extra.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Mediaset Italia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mediaset.italia.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Mediaset Italia 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mediaset.italia.due.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/PJbXCoe.png" group-title="ITALY",MediterraniaTV (1080p)
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Medjugorje Italia TV (480p)
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="ITALY",Minformo TV (720p)
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Motor Trend
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/motor.trend.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",NOVE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nove.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/AW5fJwa.png" group-title="ITALY",NTN (720p)
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="ITALY",Odeon 24 (288p)
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg" group-title="ITALY",Onda TV (568p)
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="Undefined",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",POP Television (720p)
+https://stream1.aswifi.it/poptelevision/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="ITALY",Paci Contemporary Channel (720p)
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="ITALY",Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/4Bx2321.png" group-title="ITALY",PrimAntenna TV (720p)
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/48BCOUZ.png" group-title="ITALY",Prima TV Napoli (720p)
+https://stream1.aswifi.it/primatvnapoli/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 01
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.1.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 03
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.3.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 04
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.4.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 05
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.5.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 07
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.7.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Primafila 08
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/primafila.8.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="ITALY",Promovideo TV (486p)
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="ITALY",Quarto Canale Flegreo (720p)
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="ITALY",Quarto Canale Flegreo (720p)
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="Undefined",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="Undefined",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/ahWJwvT.png" group-title="ITALY",RTL 102.5 Best (1080p)
+https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/1ZutMTJ.png" group-title="ITALY",RTL 102.5 Bro&Sis (1080p)
+https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/1gAeWPP.png" group-title="ITALY",RTL 102.5 Doc (1080p)
+https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",RTL 102.5 Extra (1080p)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/jFD0oOD.png" group-title="ITALY",RTL 102.5 Napulé (1080p)
+https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/5Sh1tWu.png" group-title="ITALY",RTL 102.5 News (1080p)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/MKWjSef.png" group-title="ITALY",RTL 102.5 Romeo&Juliet (1080p)
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="ITALY",RTL 102.5 TV (1080p)
+https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="ITALY",RTM TV (1080p)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="Undefined",RTP
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="Undefined",Radio 51 Lombardia
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="Undefined",Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/sUHHI3Q.png" group-title="ITALY",Radio Freccia TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Radio Italia Anni 60 TV (720p)
+https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Undefined",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/K2xLMin.png" group-title="ITALY",Radio Zeta TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.1.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.2.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.3.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/IIqn1oG.jpg" group-title="Undefined",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rai4.png" group-title="ITALY",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.4.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.5.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Gulp
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.gulp.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Movie
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.movie.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.news.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Premium
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.premium.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/rairadio2.png" group-title="ITALY",Rai Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/raisport.png" group-title="Sport",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Storia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.storia.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Yoyo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.yoyo.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Real Time
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/real.time.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="Undefined",ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rete 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rete.4.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/d2w0wA1.png" group-title="ITALY",Rete 8 VGA (720p)
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/BR7QfUF.png" group-title="ITALY",Rete TV Italia (1080p)
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="ITALY",Retesole Lazio (480p)
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kEje57b.png" group-title="Undefined",Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/tCVlMcj.png" group-title="ITALY",Roma TV 82 (576p)
+https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="ITALY",ST Europe Channel (720p)
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Sky Atlantic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.atlantic.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Sky Calcio
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.calcio.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Sky Calcio 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.calcio.1.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Sky Calcio 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.calcio.2.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Sky Calcio 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.calcio.3.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport 24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport24.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Collection
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.collection.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Football IT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.football.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Serie A IT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.serie.a.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Uno
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.uno.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="ITALY",Sophia TV Italy (720p)
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="ITALY",Super TV (720p)
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Super TV Brescia
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Super!
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/super.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png" group-title="ITALY",Super! (480p)
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",TG Norba 24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tg.norba.24.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/zAZcSgz.png" group-title="ITALY",TG Norba 24 (404p)
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" group-title="ITALY",TGR Bolzano
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668710&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" group-title="ITALY",TGR Friuli Venezia Giulia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668651&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" group-title="ITALY",TGR Piemonte
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" group-title="ITALY",TGR Trento
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="ITALY",TLT Molise (1080p)
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/jfXBTGp.png" group-title="ITALY",TT Teletutto (720p)
+https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/85BolCh.png" group-title="ITALY",TT2 Teletutto (720p)
+https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/RhrJjD5.png" group-title="ITALY",TT24 Teletutto (720p)
+https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",TV 2000 (720p)
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/GsdVpll.png" group-title="ITALY",TV Campane 1 (720p)
+https://eu1.servers10.com:8081/8032/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/72mAJtf.png" group-title="ITALY",TV Prato (1080p)
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/154AQjl.png" group-title="Undefined",TV Qui (Modena)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/3CDxatu.png" group-title="ITALY",TV Yes Italia (720p)
+https://stream1.aswifi.it/radioyes/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General;ITALY",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",TVA (Vicenza)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",TVR Sicilia HD (1080p) [Not 24/7]
+https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="ITALY",Tele Liguria Sud (576p)
+https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Tele Pavia
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Kyi2yFA.png" group-title="ITALY",Tele Roma Uno (720p)
+https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/c7w7DRL.png" group-title="ITALY",TeleAmbiente TV (720p)
+https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/cTmsGJD.png" group-title="ITALY",TeleArena (480p)
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/j5fnQ1h.png" group-title="ITALY",TeleMajg (480p)
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="ITALY",TeleMia Extra (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="ITALY",TeleMistretta (1080p)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.saladellamemoriaheysel.it/IMMAGINI/Logo_Tele_Quattro.png" group-title="Undefined",TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.saladellamemoriaheysel.it/IMMAGINI/Logo_Tele_Quattro.png" group-title="Undefined",TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",TeleRegione 118 (576p)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="ITALY",TeleTerni (720p)
+https://diretta.teleterni.it:8080/show/show.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Telechiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Telefoggia (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/He3uCs6.png" group-title="ITALY",Telefriuli (1080p)
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/2EJdCJO.png" group-title="ITALY",Telejato (720p)
+https://telejato.liberotratto.com/hls/0/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/TpdsPWG.png" group-title="ITALY",Telepace 1 (1080p)
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/qvcf6QC.png" group-title="ITALY",Telepace 2 (1080p)
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="ITALY",Telepace 3 (360p)
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="ITALY",Telepace 4 (720p)
+https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kC0c9Q6.png" group-title="ITALY",Telepace News (720p)
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Telepace Roma (720p)
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Telepace Trento (540p)
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/V4EpXXG.png" group-title="ITALY",Telesirio Web TV (240p)
+https://www.telesirio.it/live/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/E3ZVcJ3.png" group-title="ITALY",Telestense (720p)
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Undefined",Teletricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",TopCrime
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/topcrime.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/c9So8nf.png" group-title="ITALY",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",VH1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vh1.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="Undefined",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Vera TV (Marche)
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kXDdx0h.png" group-title="Undefined",Vera TV Marche
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="Undefined",Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png" group-title="Undefined",Videolina (Sardegna)
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Vivaldi TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/dFCrfbk.png" group-title="ITALY",Wedding TV
+https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/ueUddW1.png" group-title="ITALY",Well TV
+https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/wYntmOt.png" group-title="ITALY",Zerouno TV News (720p)
+https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" group-title="ITALY",m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",rai Scuola
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.scuola.it.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/U6OW577.png" group-title="ITALY",èTv Marche (720p)
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/xYVI5OC.png" group-title="ITALY",èTv Rete 7 (720p)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8?checkedby:iptvcat.com
